@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="420bab49-ba2d-4698-94cc-cc5b11844f77" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question2/DisplayReportUsingSpark.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <element signature="e#43#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1/ReadExcelData.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question2/ReadExcelUsingSpark.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="e#43#96#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1/DisplayReport.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createDF</find>
+      <find>union</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/NumbersFromString.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/NumbersFromString1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/CountNoOfLines.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/MultipleOutputFRomNumbers.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Codility/OddOccurence.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/AggregateByKey.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/DataFramesCreate.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/CreateDataFrames.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SparkStreamingCode/StreamingTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/ExplodeInDataFrame.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/WordCount/wordCount.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CreateRestApiInScala/Customers.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/DistinctCausesShuffle.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/TestingPurpose.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/coalesceFeature.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/WordCount/customer_data.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/WordCount/store_data.txt" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/WordCount/SparkJoin.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/WordCount/JoinDf.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/WordCount/CogroupRdd.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/sealedAbstract.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/UnderstandTraits.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/AbstractClassVsTrait.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/encoderss.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TraitsInScala/NormalTrait.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TraitsInScala/AbstractClass.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TraitsInScala/SealedAbstractClassVsSealedTrait.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/TraitsInScala/TraitCanNotHaveConstructorParameters.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/SortedSet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/SortedSetEx.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/SortedSetEx.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/ScalaSetAddRemoveElemants.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/ScalaMergeTwoSets.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/HashSetEx.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/ListSetEx.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSeq/Seq_endsWithMethodEx.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaList/AddRemoveInScalaLists.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Accern/Balllon.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Accern/CountriesColo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Accern/StringStackXebia.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaArrayToArrayBuffer/ArrayBufferFeatures.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaMaps/ScalaHashMap.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaMaps/ArraysOfHashMaps.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1/ReadExcelData12.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/JoinWithDataSer.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/TestDfJoin.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question2/ReadExcelUsingSpark.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1/DisplayReport.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1/ReadExcelData.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question2/DisplayReportUsingSpark.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2664" />
+    <option name="y" value="110" />
+    <option name="width" value="898" />
+    <option name="height" value="502" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeBasedOnFeaturesOfSpark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="ScalaCollections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="SocgenBaselineWorldVsUS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="SocgenBaselineWorldVsUS" type="462c0819:PsiDirectoryNode" />
+              <item name="Question1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SbtScalaSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SbtScalaSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="SocgenBaselineWorldVsUS" type="462c0819:PsiDirectoryNode" />
+              <item name="Question2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alka\IdeaProjects\SbtScalaSpark\src\main\scala\SocgenBaselineWorldVsUS\Question1" />
+      <recent name="C:\Users\Alka\IdeaProjects\SbtScalaSpark\src\main\scala\SocgenBaselineWorldVsUS" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CodeBasedOnFeaturesOfSpark" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alka\IdeaProjects\SbtScalaSpark\src\main\scala\com\WordCount" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DisplayReportUsingSpark">
+    <configuration name="DisplayReport" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SocgenBaselineWorldVsUS.Question1.DisplayReport" />
+      <module name="SbtScalaSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SocgenBaselineWorldVsUS.Question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplayReportUsingSpark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SocgenBaselineWorldVsUS.Question2.DisplayReportUsingSpark" />
+      <module name="SbtScalaSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SocgenBaselineWorldVsUS.Question2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinWithDataSer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CodeBasedOnFeaturesOfSpark.JoinWithDataSer" />
+      <module name="SbtScalaSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeBasedOnFeaturesOfSpark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadExcelData" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SocgenBaselineWorldVsUS.Question1.ReadExcelData" />
+      <module name="SbtScalaSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SocgenBaselineWorldVsUS.Question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDfJoin" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CodeBasedOnFeaturesOfSpark.TestDfJoin" />
+      <module name="SbtScalaSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeBasedOnFeaturesOfSpark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DisplayReportUsingSpark" />
+        <item itemvalue="Application.TestDfJoin" />
+        <item itemvalue="Application.JoinWithDataSer" />
+        <item itemvalue="Application.DisplayReport" />
+        <item itemvalue="Application.ReadExcelData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SbtScalaSpark" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sbtscalaspark [file:/C:/Users/Alka/IdeaProjects/SbtScalaSpark/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SbtScalaSpark-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="4182594234" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="29646416" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="420bab49-ba2d-4698-94cc-cc5b11844f77" name="Default Changelist" comment="" />
+      <created>1580561796389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580561796389</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3391116" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23229462" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="sbt" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.0.2-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3790">
+          <caret line="479" column="6" selection-start-line="479" selection-start-column="6" selection-end-line="479" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar!/org/apache/spark/sql/Dataset.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="123" selection-start-line="1" selection-start-column="123" selection-end-line="1" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/WordCount/SparkJoin.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/WordCount/JoinDf.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.0.2-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6226">
+          <caret line="327" column="23" selection-start-line="327" selection-start-column="23" selection-end-line="327" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.0.2-sources.jar!/org/apache/spark/Partitioner.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/WordCount/customer_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/WordCount/store_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.0.2-sources.jar!/org/apache/spark/sql/execution/QueryExecution.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="85" column="53" lean-forward="true" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/WordCount/CogroupRdd.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/sealedAbstract.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/UnderstandTraits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/AbstractClassVsTrait.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/encoderss.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TraitsInScala/NormalTrait.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TraitsInScala/AbstractClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TraitsInScala/SealedAbstractClassVsSealedTrait.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/TraitsInScala/TraitCanNotHaveConstructorParameters.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/SortedSetEx.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/SortedSetEx.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/ScalaSetAddRemoveElemants.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/ScalaMergeTwoSets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/HashSetEx.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSeq/Seq_endsWithMethodEx.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaList/AddRemoveInScalaLists.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Accern/CountriesColo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Accern/StringStackXebia.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaSets/ListSetEx.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Accern/Balllon.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaArrayToArrayBuffer/ArrayBufferFeatures.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/WordCount/CountWordAsPerInput.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="136" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.poi/poi/srcs/poi-3.17-sources.jar!/org/apache/poi/poifs/filesystem/POIFSFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-538">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding>
+            <element signature="e#1835#1836#0" expanded="true" />
+            <element signature="e#1858#1859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.poi/poi-ooxml/srcs/poi-ooxml-3.17-sources.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1160" column="18" selection-start-line="1160" selection-start-column="18" selection-end-line="1160" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.12-sources.jar!/scala/collection/mutable/HashMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaMaps/ArraysOfHashMaps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <element signature="e#35#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ScalaCollections/ScalaMaps/ScalaHashMap.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1/ReadExcelData.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="109" column="30" lean-forward="true" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+          <folding>
+            <element signature="e#43#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/WordCount/wordCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.0.2-sources.jar!/org/apache/spark/sql/Column.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="123" column="6" selection-start-line="123" selection-start-column="6" selection-end-line="123" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.0.2-sources.jar!/org/apache/spark/sql/DataFrameReader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="132" column="2" selection-start-line="132" selection-start-column="2" selection-end-line="132" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.crealytics/spark-excel_2.11/srcs/spark-excel_2.11-0.9.16-sources.jar!/com/crealytics/spark/excel/DefaultSource.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.0.2-sources.jar!/org/apache/spark/sql/Dataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="1682" column="6" selection-start-line="1682" selection-start-column="6" selection-end-line="1682" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.0.2-sources.jar!/org/apache/spark/sql/functions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="982" selection-start-line="982" selection-end-line="982" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/TestDfJoin.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="e#36#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CodeBasedOnFeaturesOfSpark/JoinWithDataSer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1/DisplayReport.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question2/ReadExcelUsingSpark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#43#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question1/ReadExcelData.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SocgenBaselineWorldVsUS/Question2/DisplayReportUsingSpark.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#43#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SbtScalaSpark</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
